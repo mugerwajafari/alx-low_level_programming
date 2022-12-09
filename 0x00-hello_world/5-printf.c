@@ -1,14 +1,10 @@
 #include <stdio.h>
 
 /**
+ **main - Entry point
  *
- *  **main - Entry point
- *
- *   *
- *
- *    **Return: retun 1 after program execution
- *
- *     **/
+ **Return: retun 1 after program execution
+ **/
 
 int main(void)
 
